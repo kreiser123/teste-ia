@@ -1,6 +1,4 @@
-Aqui está um exemplo **completo de README.md para um projeto de Inteligência Artificial (IA)**. Você pode adaptar para qualquer projeto (chatbot, visão computacional, NLP, etc.).
 
----
 
 # 🤖 Projeto de Inteligência Artificial
 
