@@ -176,18 +176,8 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 👨‍💻 Autor
 
-* Nome: **Seu Nome**
-* GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
-* LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* Nome: joao kreiser
+* LinkedIn:https://www.linkedin.com/in/joao-carlos-kreiser-28b59330b/?skipRedirect=true
 
----
-
-Se quiser, posso adaptar esse README para:
-
-* Chatbot com IA
-* IA de visão computacional (reconhecimento de imagens)
-* IA de recomendação
-* Projeto com OpenAI / LLM
-* Projeto pronto para portfólio profissional
 
 Só me diz 👍
